@@ -1,5 +1,11 @@
 # Summy Server
 
+ https://summy-sigma.vercel.app/home
+Summy는 대화 요약 및 대화 추천 서비스 입니다.
+기존의 단순 채팅 요약 서비스에서의 기능에서 벗어나 이를 요약하고, 상황에 맞는 채팅을 LLM을
+이용하여 추천함으로써 실제 사용자들에게 편리하게 이용할 수 있게 하였습니다.
+
+
 ## 프로젝트 개요
 Summy Server는 클린 아키텍처와 멀티 모듈 구조를 기반으로 한 서버 애플리케이션입니다. CQRS 패턴과 Spring Data JPA, QueryDSL을 활용한 강력한 데이터 처리 기능을 제공합니다.
 
